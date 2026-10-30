@@ -15,5 +15,5 @@ STL file for the Soul-shaped headband used in the video to aid with detection. I
 Before running any files, run the following command in your terminal to install the necessary Python packages: 
 python -m pip install opencv-python numpy dxcam pynput
 
-I am by no means a software engineer and this was definitely vibecoded so try not to make fun of me too much for any mistakes!
+I am by no means a software engineer and this was definitely vibecoded don't make fun of me too much for any mistakes lol.
 Thank you so much for all the support on the video. Feel free to use or modify the code here however you like. I hope you all have as much fun with it as I did!
